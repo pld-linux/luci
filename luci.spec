@@ -1,5 +1,5 @@
 Summary:	Universal Configuration Interface
-Summary(pl):	Uniwersalny interfejs komunikacyjny
+Summary(pl):	Uniwersalny interfejs konfiguracyjny
 Name:		luci
 Version:	0.2.2
 Release:	1
