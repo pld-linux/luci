@@ -19,9 +19,9 @@ Requires:	python-pygtk
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-LUCI provides a way to edit any configuration file by using 
-a graphical interface instead of a text editor. 
-     
+LUCI provides a way to edit any configuration file by using
+a graphical interface instead of a text editor.
+
 %description -l pl
 LUCI daje mo¿liwo¶æ edycji dowolnego pliku konfiguracyjnego przy
 pomocy interfejsu graficznego.
