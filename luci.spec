@@ -1,5 +1,5 @@
-Summary:	LUCI is a Universal Configuration Interface
-Summary(pl):	LUCI to Universalny Configurator Interfejsu 
+Summary:	Universal Configuration Interface
+Summary(pl):	Uniwersalny interfejs komunikacyjny
 Name:		luci
 Version:	0.2.2
 Release:	1
@@ -22,8 +22,8 @@ LUCI provides a way to edit any configuration file by using a graphical interfac
 instead of a text editor. 
      
 %description -l pl
-LUCI daje mo퓄iwo뜻 edycji dowolnego pliku konfiguracyjnego przez wykorzystanie 
-graficznego interfejsu, zamiast edytora terkstowego.
+LUCI daje mo퓄iwo뜻 edycji dowolnego pliku konfiguracyjnego przy
+pomocy interfejsu graficznego.
 
 #%package subpackage
 #Summary:	-
