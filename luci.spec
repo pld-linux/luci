@@ -6,7 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Aplications
 Vendor:		Jerome@SAUTRET.org
-Source0:	%{name}-%{version}.tar.gz
+Source0:	http://jsautret.free.fr/luci/%{name}-%{version}.tar.gz
 # Source0-md5:	25fc7dae4fc0012674e2d75f80e32d2a
 URL:		http://jsautret.free.fr/luci/
 Requires:	python
