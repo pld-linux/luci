@@ -7,7 +7,7 @@ Summary:	Universal Configuration Interface
 Summary(pl):	Uniwersalny interfejs konfiguracyjny
 Name:		luci
 Version:	0.2.2
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Aplications
 Vendor:		Jerome@SAUTRET.org
@@ -15,7 +15,7 @@ Source0:	http://jsautret.free.fr/luci/%{name}-%{version}.tar.gz
 # Source0-md5:	25fc7dae4fc0012674e2d75f80e32d2a
 URL:		http://jsautret.free.fr/luci/
 BuildRequires:	python-modules
-Requires:	python-pygtk
+Requires:	python-pygtk-gtk
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
