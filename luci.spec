@@ -4,7 +4,7 @@
 #   if so, they should be marked properly
 #   if no, what are they doing in /etc?
 Summary:	Universal Configuration Interface
-Summary(pl):	Uniwersalny interfejs konfiguracyjny
+Summary(pl.UTF-8):   Uniwersalny interfejs konfiguracyjny
 Name:		luci
 Version:	0.2.2
 Release:	2
@@ -22,8 +22,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 LUCI provides a way to edit any configuration file by using
 a graphical interface instead of a text editor.
 
-%description -l pl
-LUCI daje mo¿liwo¶æ edycji dowolnego pliku konfiguracyjnego przy
+%description -l pl.UTF-8
+LUCI daje moÅ¼liwoÅ›Ä‡ edycji dowolnego pliku konfiguracyjnego przy
 pomocy interfejsu graficznego.
 
 %prep
