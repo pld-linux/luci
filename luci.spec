@@ -4,7 +4,7 @@
 #   if so, they should be marked properly
 #   if no, what are they doing in /etc?
 Summary:	Universal Configuration Interface
-Summary(pl.UTF-8):   Uniwersalny interfejs konfiguracyjny
+Summary(pl.UTF-8):	Uniwersalny interfejs konfiguracyjny
 Name:		luci
 Version:	0.2.2
 Release:	2
